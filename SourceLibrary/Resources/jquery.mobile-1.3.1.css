@@ -4103,15 +4103,10 @@ and (min-width : 1824px) {
 	.ui-block-c{ width:100%; height:100%; text-align:center;}
 
 
-.logout{background-image:url(images/buttons/Logout.png); background-repeat:no-repeat; width:36px; height:35px; }
-.back{background-image:url(images/buttons/backarrow.png); background-repeat:no-repeat; width:72px; height:70px; }
-.panel{background-image:url(images/buttons/Panel.png); background-repeat:no-repeat; width:72px; height:70px; }
-.help{background-image:url(images/buttons/Help.png); background-repeat:no-repeat; width:72px; height:70px; }
+
+
+
+
 }
 }
 
-.ui-grid-b img{width:100%; height:auto; background-color: transparent;}
-.gridlabel{ padding:4px 0px;text-align:center; color:#005a84; font-size:0.875em; }
-.ui-responsive .ui-block-z{ text-align:center; width:100%;height:100%; clear:left; padding:5% 0%;}
-.dateicon{ background-image:url(images/calender.png)!important; background-repeat: no-repeat!important;  background-position: right!important;}
-.timeicon{ background-image:url(images/time.png)!important; background-repeat: no-repeat!important; background-position: right!important;}
